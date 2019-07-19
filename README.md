@@ -2,7 +2,6 @@
 
 Development references for Tizen OS platform apps.<br>
 This documents focus on web apps for Smart TVs e Professional Monitors and are based in personal researches.<br>
-Stay free to contributing.
 
 # References
 
