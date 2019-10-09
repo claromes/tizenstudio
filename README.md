@@ -42,14 +42,16 @@ This documents focus on web apps for Smart TVs e Professional Monitors and are b
 7. [ ] Web Package configuration
 8. [ ] Launch
 
-## Extra
-Some PDFs were inserted in this repository under the BSD 3-Clause License. Check it out.
-
 ## Other web references
 [Can SSSP4 URL Launcher be used with standard web apps?](https://developer.samsung.com/forum/thread/can-sssp4-url-launcher-be-used-with-standard-web-apps/201/305698?boardName=SDK&startId=zzzzz~)<br>
 [Web Code Snippet by Tizen Developers](https://developer.tizen.org/community/code-snippet/web-code-snippet/all)<br>
 
-# BSD 3-Clause License
+---
+
+## Extra
+Some PDFs were inserted in this repository under the BSD 3-Clause License.
+
+### BSD 3-Clause License
 
 Copyright (c) 2013, Samsung Electronics Co., Ltd.<br>
 
@@ -62,3 +64,5 @@ Redistribution and use in source and binary forms, with or without modification,
 - Neither the name of the Samsung Electronics Co., Ltd nor the names of its contributors may be used to endorse or promote products derived from this software without specific prior written permission.
 
 THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+---
